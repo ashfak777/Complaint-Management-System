@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Epolice</string>
+
+    <string-array name="array1">
+        <item>Cappuccino</item>
+        <item>Espresso</item>
+        <item>Mocha</item>
+    </string-array>
+
+    <string-array name="array2">
+        <item>Cappuccino</item>
+        <item>Espresso</item>
+        <item>Mocha</item>
+    </string-array>
+
+    <string-array name="array3">
+        <item>Cappuccino</item>
+        <item>Espresso</item>
+        <item>Mocha</item>
+    </string-array>
+
+    <string-array name="array4">
+        <item>Cappuccino</item>
+        <item>Espresso</item>
+        <item>Mocha</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
