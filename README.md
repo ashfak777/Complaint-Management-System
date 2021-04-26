@@ -44,11 +44,11 @@ Web:
 ![3).png](Police_App/3.png)
 
 # Some Web Interfaces
-![w1).png](Police_App/1.png)
+![w1).png](Police_App/w1.png)
 <br>
-![w2.png](Police_App/2.png)
+![w2.png](Police_App/w2.png)
 <br>
-![w3).png](Police_App/3.png)
+![w3).png](Police_App/w3.png)
 
 
 
